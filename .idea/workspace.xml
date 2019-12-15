@@ -14,8 +14,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JupyterTrust" id="ea2ec6c7-7e24-41d9-9d92-be8c28b51e25" />
   <component name="ProjectId" id="1V12Ayrvq8vLCrwwmn3XN5fDxXT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,13 +35,16 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.qn3.normalize">
     <configuration name="LinearRegression (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Lab 1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -57,6 +64,9 @@
       <module name="Lab 1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -94,17 +104,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="asd" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="linearRegressionImplementation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Lab 1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/asd.py" />
+      <option name="SCRIPT_NAME" value="E:\Sagar\MSc CSIT\2nd Semester\Lab\Machine Learning\Lab 1\q2.linearRegressionImplementation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="linearRegressionImplementation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="qn3.normalize" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Lab 1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,7 +136,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/linearRegressionImplementation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/qn3.normalize.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.qn3.normalize" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.linearRegressionImplementation" />
         <item itemvalue="Python.LinearRegression (1)" />
         <item itemvalue="Python.LinearRegression" />
-        <item itemvalue="Python.asd" />
       </list>
     </recent_temporary>
   </component>
@@ -184,6 +197,8 @@
       <option name="presentableId" value="Default" />
       <updated>1576406141099</updated>
       <workItem from="1576406144149" duration="18637000" />
+      <workItem from="1576428903831" duration="2171000" />
+      <workItem from="1576432594395" duration="427000" />
     </task>
     <servers />
   </component>
@@ -191,6 +206,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1576429025190">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1576429025190" />
     <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1576418473820">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -223,10 +242,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1576418473821" />
-    <state x="184" y="5" key="SettingsEditor" timestamp="1576406320392">
+    <state x="184" y="5" key="SettingsEditor" timestamp="1576429089003">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="5" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1576406320392" />
+    <state x="184" y="5" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1576429089003" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1576428949076">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1576428949076" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Lab_1$dataVisualization.coverage" NAME="dataVisualization Coverage Results" MODIFIED="1576412861502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
